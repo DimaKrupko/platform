@@ -1,0 +1,92 @@
+﻿@model Tickets
+
+<h1>Add new ticket</h1>
+<form method="post">
+	<div class="form-group row">
+		<label>Ticket id</label>
+		<div class="col-sm-10">
+			<input asp-for="ticket_id" />
+			<span asp-validation-for="ticket_id"></span>
+		</div>
+	</div>
+	<div class="form-group row">
+		<label>Carriage number</label>
+		<div class="col-sm-10">
+			<input asp-for="carriage_number" />
+			<span asp-validation-for="carriage_number"></span>
+		</div>
+	</div>
+	<div class="form-group row">
+		<label>Carriage type</label>
+		<div class="col-sm-10">
+			<input asp-for="carriage_type" />
+			<span asp-validation-for="carriage_type"></span>
+		</div>
+	</div>
+	<div class="form-group row">
+		<label>Date</label>
+		<div class="col-sm-10">
+			<input asp-for="date_departure" />
+			<span asp-validation-for="date_departure"></span>
+		</div>
+	</div>
+	<div class="form-group row">
+		<label>Time</label>
+		<div class="col-sm-10">
+			<input asp-for="time_arrival" />
+			<span asp-validation-for="time_arrival"></span>
+		</div>
+	</div>
+	<div class="form-group row">
+		<label>Destination</label>
+		<div class="col-sm-10">
+			<input asp-for="destination" />
+			<span asp-validation-for="destination"></span>
+		</div>
+	</div>
+	<div class="form-group row">
+		<label>Distance</label>
+		<div class="col-sm-10">
+			<input asp-for="distance" />
+			<span asp-validation-for="distance"></span>
+		</div>
+	</div>
+	<div class="form-group row">
+		<label>Cost</label>
+		<div class="col-sm-10">
+			<input asp-for="cost" />
+			<span asp-validation-for="cost"></span>
+		</div>
+	</div>
+	<div class="form-group row">
+		<label>Surcharge Urgency</label>
+		<div class="col-sm-10">
+			<input asp-for="surcharge_urgency" />
+			<span asp-validation-for="surcharge_urgency"></span>
+		</div>
+	</div>
+	<div class="form-group row">
+		<label>Surcharge Type</label>
+		<div class="col-sm-10">
+			<input asp-for="surcharge_type" />
+			<span asp-validation-for="surcharge_type"></span>
+		</div>
+	</div>
+	<div class="form-group row">
+		<label>User Id</label>
+		<div class="col-sm-10">
+			<input asp-for="userId" />
+			<span asp-validation-for="userId"></span>
+		</div>
+	</div>
+	<div class="form-group row">
+		<label>Train Id</label>
+		<div class="col-sm-10">
+			<input asp-for="train_id" />
+			<span asp-validation-for="train_id"></span>
+		</div>
+	</div>
+	<div class="col-sm-10 pt-2">
+		<button type="submit">Add ticket</button>
+	</div>
+</form>
