@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nys1nOZfVZs4ybJSfQXcqFpiRRkA7hl2eJGQeXhpP5RmpUqIXmuQ55J8CXGI926gTfds6zRVLfBiEZZnlcuBbg==",
+  "dgSpecHash": "gpf+qlNy1zdTw8nsiJzP2bD3DJ0u6fCKO/jig/7YZH1uMQKAqTCrr46WMsoYxK+7ZMi86sI1evBK4a5fWskX7g==",
   "success": true,
-  "projectFilePath": "D:\\Study\\Platform\\exam\\version2\\platforms-master\\lab4\\lab4.csproj",
+  "projectFilePath": "D:\\Study\\Platforms\\platform\\lab4\\lab4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

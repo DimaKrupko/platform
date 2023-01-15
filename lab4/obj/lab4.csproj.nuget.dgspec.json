@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\Platform\\exam\\version2\\platforms-master\\lab4\\lab4.csproj": {}
+    "D:\\Study\\Platforms\\platform\\lab4\\lab4.csproj": {}
   },
   "projects": {
-    "D:\\Study\\Platform\\exam\\version2\\platforms-master\\lab4\\lab4.csproj": {
+    "D:\\Study\\Platforms\\platform\\lab4\\lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\Platform\\exam\\version2\\platforms-master\\lab4\\lab4.csproj",
+        "projectUniqueName": "D:\\Study\\Platforms\\platform\\lab4\\lab4.csproj",
         "projectName": "lab4",
-        "projectPath": "D:\\Study\\Platform\\exam\\version2\\platforms-master\\lab4\\lab4.csproj",
+        "projectPath": "D:\\Study\\Platforms\\platform\\lab4\\lab4.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\Platform\\exam\\version2\\platforms-master\\lab4\\obj\\",
+        "outputPath": "D:\\Study\\Platforms\\platform\\lab4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
